@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1200mm"
+   height="1235mm"
+   viewBox="0 0 1200 1235"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="floor_bg-new-2.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.2156197"
+     inkscape:cx="2813.9201"
+     inkscape:cy="2867.2787"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g404"
+     showgrid="false"
+     inkscape:window-width="1538"
+     inkscape:window-height="877"
+     inkscape:window-x="1420"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,938)">
+    <g
+       id="g404"
+       transform="matrix(0.56970502,0,0,0.60047576,-472.89924,-59.422286)">
+      <image
+         sodipodi:absref="D:\WORK\RESIDENT2.0\app\img\floor_page\floor_bg.jpg"
+         xlink:href="floor_bg.jpg"
+         width="2106.3533"
+         height="2056.7024"
+         preserveAspectRatio="none"
+         id="image414"
+         x="830.07733"
+         y="-1463.1359" />
+      <g
+         id="XMLID_32_"
+         transform="translate(1186.8034,-593.42027)">
+        <polygon
+           points="458.9,463.8 458.9,430.5 141.4,430.5 182.1,463.8 "
+           class="st0"
+           id="XMLID_27_"
+           style="opacity:0.5"
+           transform="matrix(3.0812775,0,0,3.0036857,-360.6386,-914.20234)" />
+        <rect
+           height="105.74948"
+           width="278.65298"
+           class="st1"
+           y="-425.9299"
+           x="507.72842"
+           id="XMLID_29_"
+           style="fill:#b7957a;stroke-width:1.68101072" />
+        <polygon
+           points="695.9,420.1 695.9,474.1 706.1,447.2 "
+           class="st2"
+           id="XMLID_31_"
+           style="fill:#7c624c"
+           transform="matrix(0.0020248,1.9387961,-2.0640951,0.00193017,1574.6977,-1670.2021)" />
+        <text
+           class="st3 st4 st5"
+           id="XMLID_28_"
+           style="font-size:80.31346893px;font-family:EngraversGothic-Bold;fill:#f4ede7;stroke-width:2.23092985"
+           x="613.1712"
+           y="-327.13855"
+           transform="scale(0.94658173,1.0564328)">4</text>
+        <text
+           class="st3 st6 st7"
+           id="XMLID_30_"
+           style="font-size:33.02390671px;font-family:Roboto-Regular;fill:#f4ede7;stroke-width:2.75199223"
+           x="834.81317"
+           y="-278.87521"
+           transform="scale(0.77298509,1.293686)">Поверх</text>
+      </g>
+      <g
+         id="XMLID_58_"
+         transform="translate(1433.6453,-763.99135)">
+        <polygon
+           points="107.9,402.6 142.2,430.5 458.9,430.5 458.9,397.2 243.6,397.2 243.6,400.1 107.9,400.3 "
+           class="st0"
+           id="XMLID_67_"
+           style="opacity:0.5"
+           transform="matrix(3.0792177,0,0,2.928079,-607.57795,-711.08256)" />
+        <rect
+           height="105.74948"
+           width="278.65298"
+           class="st1"
+           y="-255.35881"
+           x="260.88651"
+           id="XMLID_64_"
+           style="fill:#b7957a;stroke-width:1.68101072" />
+        <polygon
+           points="695.9,440.9 706.1,413.9 695.9,386.9 "
+           class="st2"
+           id="XMLID_61_"
+           style="fill:#7c624c"
+           transform="matrix(0.00170379,1.9396444,-2.0640954,0.00161683,1259.5513,-1500.0361)" />
+        <text
+           class="st3 st4 st5"
+           id="XMLID_60_"
+           style="font-size:85.64406586px;font-family:EngraversGothic-Bold;fill:#f4ede7;stroke-width:2.37900209"
+           x="318.67966"
+           y="-181.65027"
+           transform="scale(1.0304238,0.97047447)">5</text>
+        <text
+           class="st3 st6 st7"
+           id="XMLID_59_"
+           style="font-size:33.02390671px;font-family:Roboto-Regular;fill:#f4ede7;stroke-width:2.75199199"
+           x="515.47729"
+           y="-147.02632"
+           transform="scale(0.77298504,1.2936861)">Поверх</text>
+      </g>
+      <g
+         id="XMLID_68_"
+         transform="matrix(1,0,0,1.0462749,1071.934,-747.0514)">
+        <polygon
+           points="425,397.2 425,363.9 243.7,363.9 243.7,371.1 89.4,370.9 89.4,377.7 107.9,393.2 107.9,400.3 243.6,400.1 243.6,397.2 "
+           class="st0"
+           id="XMLID_77_"
+           style="opacity:0.5"
+           transform="matrix(3.0797358,0,0,2.245084,-244.10223,-476.64575)" />
+        <rect
+           height="101.07236"
+           width="278.65298"
+           class="st1"
+           y="-260.25546"
+           x="622.59784"
+           id="XMLID_74_"
+           style="fill:#b7957a;stroke-width:1.53715348" />
+        <polygon
+           points="695.9,353.5 695.9,407.5 706.1,380.6 "
+           class="st2"
+           id="XMLID_71_"
+           style="fill:#7c624c"
+           transform="matrix(-0.00401581,1.8483233,-2.0640922,-0.00364949,1556.3008,-1443.9466)" />
+        <text
+           class="st3 st4 st5"
+           id="XMLID_70_"
+           style="font-size:79.59325409px;font-family:EngraversGothic-Bold;fill:#f4ede7;stroke-width:2.21092391"
+           x="678.86639"
+           y="-188.42505"
+           transform="scale(1.0203943,0.98001332)">6</text>
+        <text
+           class="st3 st6 st7"
+           id="XMLID_69_"
+           style="font-size:32.2853508px;font-family:Roboto-Regular;fill:#f4ede7;stroke-width:2.6904459"
+           x="961.4248"
+           y="-156.53967"
+           transform="scale(0.7906677,1.2647538)">Поверх</text>
+      </g>
+      <g
+         id="XMLID_78_"
+         transform="translate(1234.815,-814.24236)">
+        <polygon
+           points="425,330.7 243.5,330.7 243.5,344.9 89.4,345.4 89.4,370.9 243.7,371.1 243.7,364 425,364 "
+           class="st0"
+           id="XMLID_87_"
+           style="opacity:0.5"
+           transform="matrix(3.0718281,0,0,2.9631662,-403.97315,-660.73489)" />
+        <rect
+           height="105.74948"
+           width="278.65298"
+           class="st1"
+           y="-205.1078"
+           x="459.7168"
+           id="XMLID_84_"
+           style="fill:#b7957a;stroke-width:1.57231724" />
+        <polygon
+           points="695.9,374.4 706.1,347.4 695.9,320.4 "
+           class="st2"
+           id="XMLID_81_"
+           style="fill:#7c624c"
+           transform="matrix(-7.193838e-4,1.9421059,-2.064096,-6.8693229e-4,1322.8058,-1450.6153)" />
+        <text
+           class="st3 st4 st5"
+           id="XMLID_80_"
+           style="font-size:84.42488861px;font-family:EngraversGothic-Bold;fill:#f4ede7;stroke-width:2.34513617"
+           x="531.58356"
+           y="-124.15885"
+           transform="scale(0.99503924,1.0049855)">7</text>
+        <text
+           class="st3 st6 st7"
+           id="XMLID_79_"
+           style="font-size:33.02390671px;font-family:Roboto-Regular;fill:#f4ede7;stroke-width:2.75199199"
+           x="772.70129"
+           y="-108.18304"
+           transform="scale(0.77298505,1.2936861)">Поверх</text>
+      </g>
+      <g
+         id="XMLID_88_"
+         transform="translate(1082.5286,-854.24641)">
+        <polygon
+           points="425,330.7 425,297.4 244,297.4 244,317.5 117.8,317.5 117.8,344.9 243.5,344.9 243.5,330.7 "
+           class="st0"
+           id="XMLID_97_"
+           style="opacity:0.5"
+           transform="matrix(3.064672,0,0,3.1467974,-249.94424,-684.09213)" />
+        <rect
+           height="105.74948"
+           width="278.65298"
+           class="st1"
+           y="-165.10374"
+           x="612.00323"
+           id="XMLID_94_"
+           style="fill:#b7957a;stroke-width:1.57231724" />
+        <polygon
+           points="695.9,287 695.9,341 706.1,314.1 "
+           class="st2"
+           id="XMLID_91_"
+           style="fill:#7c624c"
+           transform="matrix(0.00143008,1.9402995,-2.0640956,0.0013643,1404.6554,-1410.0029)" />
+        <text
+           class="st3 st4 st5"
+           id="XMLID_90_"
+           style="font-size:81.02477264px;font-family:EngraversGothic-Bold;fill:#f4ede7;stroke-width:2.25068808"
+           x="683.70306"
+           y="-85.998276"
+           transform="scale(0.99857672,1.0014253)">8</text>
+        <text
+           class="st3 st6 st7"
+           id="XMLID_89_"
+           style="font-size:33.02390671px;font-family:Roboto-Regular;fill:#f4ede7;stroke-width:2.75199199"
+           x="969.7121"
+           y="-77.260506"
+           transform="scale(0.77298504,1.2936861)">Поверх</text>
+      </g>
+      <g
+         id="XMLID_98_"
+         transform="translate(1136.3017,-941.26971)">
+        <polygon
+           points="117.8,317.5 244,317.5 244,297.3 425,297.3 425,264.1 244,264.1 244.3,290.8 117.8,290.8 "
+           class="st0"
+           id="XMLID_107_"
+           style="opacity:0.5"
+           transform="matrix(3.064672,0,0,3.0982066,-302.92972,-583.09157)" />
+        <rect
+           height="105.79354"
+           width="278.65298"
+           class="st1"
+           y="-78.124504"
+           x="558.2301"
+           id="XMLID_104_"
+           style="fill:#b7957a;stroke-width:1.57264483" />
+        <polygon
+           points="706.1,280.8 695.9,253.7 695.9,307.7 "
+           class="st2"
+           id="XMLID_101_"
+           style="fill:#7c624c"
+           transform="matrix(1.7771084e-4,1.9434731,-2.0640961,1.6981373e-4,1283.0196,-1324.8396)" />
+        <text
+           class="st3 st4 st5"
+           id="XMLID_100_"
+           style="font-size:81.41400909px;font-family:EngraversGothic-Bold;fill:#f4ede7;stroke-width:2.26150012"
+           x="630.82587"
+           y="1.0912108"
+           transform="scale(0.997574,1.0024319)">9</text>
+        <text
+           class="st3 st6 st7"
+           id="XMLID_99_"
+           style="font-size:33.02390671px;font-family:Roboto-Regular;fill:#f4ede7;stroke-width:2.75199223"
+           x="900.14655"
+           y="-9.9927959"
+           transform="scale(0.77298509,1.293686)">Поверх</text>
+      </g>
+      <g
+         id="XMLID_108_"
+         transform="translate(1149.9716,-1041.6151)">
+        <polygon
+           points="412.8,264.1 412.8,232.6 268.2,232.6 268.2,260.4 117.2,260.3 117.8,290.8 244.3,290.8 244,264.1 "
+           class="st0"
+           id="XMLID_117_"
+           style="opacity:0.5"
+           transform="matrix(3.0559163,0,0,3.0333149,-315.26086,-465.39551)" />
+        <rect
+           height="105.74948"
+           width="278.65298"
+           class="st1"
+           y="22.264944"
+           x="544.56024"
+           id="XMLID_114_"
+           style="fill:#b7957a;stroke-width:1.53806508" />
+        <polygon
+           points="695.9,276.2 706.1,249.3 695.9,222.2 "
+           class="st2"
+           id="XMLID_111_"
+           style="fill:#7c624c"
+           transform="matrix(0.00203308,1.9387752,-2.0640951,0.00193804,1203.0393,-1221.6125)" />
+        <text
+           class="st3 st4 st5"
+           id="XMLID_110_"
+           style="font-size:65.13121033px;font-family:EngraversGothic-Bold;fill:#f4ede7;stroke-width:1.80920041"
+           x="759.21442"
+           y="80.996704"
+           transform="scale(0.79909026,1.2514231)">10</text>
+        <text
+           class="st3 st6 st7"
+           id="XMLID_109_"
+           style="font-size:33.02390671px;font-family:Roboto-Regular;fill:#f4ede7;stroke-width:2.75199223"
+           x="882.46204"
+           y="67.572693"
+           transform="scale(0.77298504,1.2936861)">Поверх</text>
+      </g>
+      <polygon
+         points="268.2,260.4 268.2,232.6 412.8,232.6 412.8,203.9 268.5,203.9 268.3,230 117.2,230 117.2,260.3 "
+         class="st0"
+         id="XMLID_127_"
+         style="opacity:0.5"
+         transform="matrix(3.0592155,0,0,3.0053605,832.46641,-1501.2237)" />
+      <rect
+         height="105.74948"
+         width="278.65298"
+         class="st1"
+         y="-1019.3502"
+         x="1694.5319"
+         id="XMLID_124_"
+         style="fill:#b7957a;stroke-width:1.53806508" />
+      <polygon
+         points="695.9,247.5 706.1,220.6 695.9,193.5 "
+         class="st2"
+         id="XMLID_121_"
+         style="fill:#7c624c"
+         transform="matrix(-0.00380923,1.9343697,-2.0640925,-0.00362291,2297.8364,-2258.8345)" />
+      <text
+         class="st3 st4 st5"
+         id="XMLID_120_"
+         style="font-size:67.63286591px;font-family:EngraversGothic-Bold;fill:#f4ede7;stroke-width:1.87869048"
+         x="2195.8838"
+         y="-751.03186"
+         transform="scale(0.7998037,1.2503068)">11</text>
+      <text
+         class="st3 st6 st7"
+         transform="translate(549.0003,223.9621)"
+         id="XMLID_119_"
+         style="font-size:12px;font-family:Roboto-Regular;fill:#f4ede7">Поверх</text>
+      <g
+         id="XMLID_34_"
+         transform="translate(1500.7647,-549.92397)">
+        <rect
+           height="93.728096"
+           width="848.70203"
+           class="st0"
+           y="437.26282"
+           x="-109.82216"
+           id="XMLID_47_"
+           style="opacity:0.5;stroke-width:2.93769956" />
+        <rect
+           height="105.74948"
+           width="278.65298"
+           class="st1"
+           y="-469.42612"
+           x="193.76711"
+           id="XMLID_40_"
+           style="fill:#003420;fill-opacity:0.21960784;stroke-width:1.68385506" />
+        <polygon
+           points="695.1,453.3 695.1,507.3 705.3,480.4 "
+           class="st2"
+           id="XMLID_37_"
+           style="fill:#7c624c"
+           transform="matrix(0.01531077,1.9293557,-2.0640961,0.00548336,1320.0314,-1707.2514)" />
+        <text
+           class="st3 st4 st5"
+           id="XMLID_36_"
+           style="font-size:84.30717468px;font-family:EngraversGothic-Bold;fill:#f4ede7;stroke-width:2.34186625"
+           x="253.32518"
+           y="-404.00095"
+           transform="scale(1.0350262,0.96615911)">3</text>
+        <text
+           class="st3 st6 st7"
+           id="XMLID_35_"
+           style="font-size:33.02390671px;font-family:Roboto-Regular;fill:#f4ede7;stroke-width:2.75199223"
+           x="428.64584"
+           y="-312.49722"
+           transform="scale(0.77298509,1.293686)">Поверх</text>
+      </g>
+      <g
+         id="XMLID_38_"
+         transform="matrix(0.97210224,0,0,1.1613586,1347.1972,-567.31642)">
+        <polygon
+           points="182.1,530.3 458.9,530.3 458.9,497 182.2,497 "
+           class="st0"
+           id="XMLID_57_"
+           style="opacity:0.5"
+           transform="matrix(3.1599777,0,0,2.8120139,-532.31294,-924.40204)" />
+        <rect
+           height="91.056702"
+           width="286.64987"
+           class="st1"
+           y="-389.22833"
+           x="357.30264"
+           id="XMLID_50_"
+           style="fill:#b7957a;stroke-width:1.58476651" />
+        <polygon
+           points="705.3,513.7 695.1,486.6 695.1,540.6 "
+           class="st2"
+           id="XMLID_46_"
+           style="fill:#7c624c"
+           transform="matrix(-8.5649715e-4,1.6720312,-2.1233322,-6.8447687e-4,1598.1391,-1460.0327)" />
+        <text
+           class="st3 st4 st5"
+           id="XMLID_44_"
+           style="font-size:79.07036591px;font-family:EngraversGothic-Bold;fill:#f4ede7;stroke-width:2.19639802"
+           x="387.52234"
+           y="-353.6138"
+           transform="scale(1.1048382,0.9051099)">
+          <tspan
+             style="line-height:1;stroke-width:2.19639802"
+             id="tspan91">2</tspan>
+        </text>
+        <text
+           class="st3 st6 st7"
+           id="XMLID_39_"
+           style="font-size:31.08059311px;font-family:Roboto-Regular;fill:#f4ede7;stroke-width:2.59004998"
+           x="590.39954"
+           y="-281.45514"
+           transform="scale(0.84488638,1.1835911)">Поверх</text>
+      </g>
+      <g
+         id="XMLID_1_"
+         transform="translate(1133.1849,-1083.1719)">
+        <rect
+           height="105.74948"
+           width="278.65298"
+           class="st1"
+           y="63.821743"
+           x="561.34692"
+           id="XMLID_135_"
+           style="fill:#b7957a;stroke-width:2.54375005" />
+        <text
+           class="st3 st4 st5"
+           id="XMLID_131_"
+           style="font-size:65.7408371px;font-family:EngraversGothic-Bold;fill:#f4ede7;stroke-width:1.82613468"
+           x="788.07294"
+           y="114.01805"
+           transform="scale(0.79095878,1.2642884)">12</text>
+        <text
+           class="st3 st6 st7"
+           id="XMLID_130_"
+           style="font-size:33.02390671px;font-family:Roboto-Regular;fill:#f4ede7;stroke-width:2.75199223"
+           x="904.17871"
+           y="99.69548"
+           transform="scale(0.77298505,1.2936861)">Поверх</text>
+        <rect
+           height="58.017502"
+           width="459.05368"
+           class="st0"
+           y="213.03151"
+           x="59.027054"
+           id="XMLID_33_"
+           style="opacity:0.5;stroke-width:2.74861431" />
+        <polygon
+           points="127.3,218.5 117.2,191.4 117.2,245.4 "
+           class="st2"
+           id="XMLID_132_"
+           style="fill:#7c624c"
+           transform="matrix(0.00351533,1.9542847,-2.0640931,0.0033119,1157.2542,-60.107484)" />
+      </g>
+      <g
+         id="XMLID_3_"
+         transform="translate(1019.7832,-1133.7231)">
+        <rect
+           height="78.790016"
+           width="460.93021"
+           class="st0"
+           y="182.21187"
+           x="172.55812"
+           id="XMLID_128_"
+           style="opacity:0.5;stroke-width:2.71764064" />
+        <rect
+           height="105.74948"
+           width="278.65298"
+           class="st1"
+           y="114.37294"
+           x="674.7486"
+           id="XMLID_7_"
+           style="fill:#b7957a;stroke-width:2.54375029" />
+        <text
+           class="st3 st4 st5"
+           id="XMLID_6_"
+           style="font-size:65.39411163px;font-family:EngraversGothic-Bold;fill:#f4ede7;stroke-width:1.81650317"
+           x="917.5835"
+           y="155.32413"
+           transform="scale(0.80283342,1.2455884)">13</text>
+        <text
+           class="st3 st6 st7"
+           id="XMLID_5_"
+           style="font-size:33.02390671px;font-family:Roboto-Regular;fill:#f4ede7;stroke-width:2.75199199"
+           x="1050.8849"
+           y="138.7708"
+           transform="scale(0.77298504,1.2936861)">Поверх</text>
+        <polygon
+           points="127.3,190.5 117.2,163.5 117.2,217.5 "
+           class="st2"
+           id="XMLID_2_"
+           style="fill:#7c624c"
+           transform="matrix(-0.00143674,1.9595428,-2.0640956,-0.00135724,1213.6486,-9.2434423)" />
+      </g>
+      <text
+         class="st3 st6 st7"
+         id="XMLID_109_-5"
+         style="font-size:33.02390671px;font-family:Roboto-Regular;fill:#f4ede7;stroke-width:2.75199199"
+         x="2370.1643"
+         y="-737.5802"
+         transform="scale(0.77298504,1.2936861)">Поверх</text>
+    </g>
+  </g>
+  <style
+     id="style10"
+     type="text/css">
+	.st0{opacity:0.5;}
+	.st1{fill:#B7957A;}
+	.st2{fill:#7C624C;}
+	.st3{fill:#F4EDE7;}
+	.st4{font-family:'EngraversGothic-Bold';}
+	.st5{font-size:36px;}
+	.st6{font-family:'Roboto-Regular';}
+	.st7{font-size:12px;}
+</style>
+  <style
+     id="style249"
+     type="text/css">
+	.st0{opacity:0.5;}
+	.st1{fill:#B7957A;}
+	.st2{fill:#7C624C;}
+	.st3{fill:#F4EDE7;}
+	.st4{font-family:'EngraversGothic-Bold';}
+	.st5{font-size:36px;}
+	.st6{font-family:'Roboto-Regular';}
+	.st7{font-size:12px;}
+</style>
+</svg>

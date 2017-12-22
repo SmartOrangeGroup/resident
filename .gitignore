@@ -1,0 +1,47 @@
+
+.gitignore
+.idea/
+WORK_MATERIAL/
+node_modules/
+ehthumbs.db
+Thumbs.db
+
+# ignore log files and databases
+*.log
+*.sql
+*.sqlite
+
+# ignore packaged files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# track these files, if they exist
+!.gitignore
+!.editorconfig
+
+/dist
+/makets
+
+scripts.min.js
+cash.ini
+main.min.css
+
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
